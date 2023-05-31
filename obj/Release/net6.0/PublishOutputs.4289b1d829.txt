@@ -1,0 +1,7 @@
+/var/www/html/my-app/my-app
+/var/www/html/my-app/appsettings.Development.json
+/var/www/html/my-app/appsettings.json
+/var/www/html/my-app/my-app.dll
+/var/www/html/my-app/my-app.deps.json
+/var/www/html/my-app/my-app.runtimeconfig.json
+/var/www/html/my-app/my-app.pdb
